@@ -121,7 +121,7 @@ $PREFIX/bin/NS-Stop        # Global stop command
 
 ## 🧠 Credits
 
-Built by **xenoZ0x**
+Built by **ARMOND**
 
 ---
 
